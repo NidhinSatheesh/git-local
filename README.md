@@ -1,0 +1,2 @@
+# git-local
+local repository
